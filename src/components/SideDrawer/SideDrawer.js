@@ -4,7 +4,7 @@ import classesNew from './BackDropForSideDrawer.module.css'
 import Logo from '../Logo/Logo'
 import NavigationItems from '../Naavigation/NavigationItems/NavigationItems'
 import BackDrop from '../UI/Backdrop/Backdrop'
-import Aux from '../../hoc/AuxFile/Aux'
+import Aux from '../../hoc/Aux'
 
 
 const backDrawer = (props) => (
