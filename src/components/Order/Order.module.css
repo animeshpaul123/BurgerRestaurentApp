@@ -1,0 +1,7 @@
+.Order {
+    width: 80%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin: 10px auto 15px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
